@@ -1,0 +1,66 @@
+
+
+{
+  "EmBreve": [
+    {
+      "id": 1,
+      "titulo": "A MALDIÇÃO: DESPERTAR DOS MORTOS",
+      "ano": 2022,
+      "direcao": "Kim Yong-wan"
+    },
+    {
+      "titulo": "E.T. - O EXTRATERRESTRE",
+      "ano": 2022,
+      "direcao": "Steven Spielberg",
+      "id": 2
+    },
+    {
+      "titulo": "GOLIAS",
+      "ano": 2023,
+      "direcao": "Frédéric Tellier",
+      "id": 3
+    },
+    {
+      "titulo": "PINÓQUIO",
+      "ano": 2023,
+      "direcao": "Josh Gordon, Will Speck",
+      "id": 4
+    }
+  ],
+  "generos": [
+    {
+      "id": 1,
+      "genero": "Ação / Horror / Suspense / Terror"
+    },
+    {
+      "genero": "Aventura / Drama / Fantasia",
+      "id": 2
+    },
+    {
+      "genero": "Drama / Suspense",
+      "id": 3
+    },
+    {
+      "genero": "Drama / Fantasia",
+      "id": 4
+    }
+  ],
+  "produtoras": [
+    {
+      "id": 1,
+      "nome": "Diamond Films"
+    },
+    {
+      "nome": "Amblin Entertainment",
+      "id": 2
+    },
+    {
+      "nome": "Single Man Productions",
+      "id": 3
+    },
+    {
+      "nome": "Netflix",
+      "id": 4
+    }
+  ]
+}
